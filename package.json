@@ -1,0 +1,21 @@
+{
+  "name": "assertiva",
+  "version": "1.0.0",
+  "description": "Teste Assertiva CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon --ignore '*.json'"
+  },
+  "author": "João Paulo Augustus",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-router": "^0.0.1",
+    "pg": "^8.11.0",
+    "router": "^1.3.8",
+    "swagger-autogen": "^2.23.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.3"
+  }
+}
