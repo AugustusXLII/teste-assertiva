@@ -68,8 +68,8 @@ A API foi desenvolvida usando Node.js e Postgres como banco de dados.
 - **DELETE /clientes/?id=:id**:
   - Remove um cliente pelo seu ID.
 
-#####As rotas de POST e PUT devem conter um JSON com os dados do usuário.
-######Exemplos da formatação JSON estão contidos na collection do Postman
+As rotas de POST e PUT devem conter um JSON com os dados do usuário.
+Exemplos da formatação JSON estão contidos na collection do Postman
 
 ---
 
@@ -79,7 +79,8 @@ Uma collection do Postman contendo exemplos de requisições para a API pode ser
 
 ---
 
-####Caso ocorra algum problema ou para mais informações, me contate em:
+Caso ocorra algum problema ou para mais informações, me contate em:
+
 augustusdclxvi@gmail.com
 
 Fora isso, muito obrigado pela oportunidade!
