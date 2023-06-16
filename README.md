@@ -1,4 +1,4 @@
-# API de Cadastro de Clientes
+# Teste Assertiva - API de Clientes
 
 Esta é uma API para o cadastro de clientes, onde é possível gerenciar informações como ID, CPF, nome, celulares e e-mails dos clientes.
 
